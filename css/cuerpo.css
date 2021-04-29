@@ -1,0 +1,36 @@
+.conten {
+    padding: 1px;
+    float: left;
+    text-align: left;
+    margin-right: 10px;
+}
+
+.lore {
+    float:inline-start;
+    width: 70%;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.lore h2{
+    position: relative;
+    text-align: left;
+    margin: 1px;
+}
+
+.datos{
+    text-align: center;
+}
+
+.datos i{
+    float: left;
+}
+
+.noticia {
+    width: 80%;
+    margin: 90px;
+}
+
+#info {
+    text-align: left;
+}

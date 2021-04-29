@@ -1,3 +1,5 @@
+@import url(css/cuerpo.css);
+
 #p_principal {
     margin-top: 1%;
 }
@@ -39,7 +41,9 @@
     
 }
 
-
+.col-md-4 a{
+    text-decoration: none;
+}
 
 #p_secundaria .col  img {
 
@@ -65,7 +69,6 @@
 .segundo_bloque h5, h3,p {
     color: white;
 }
-
 
 .segundo_bloque h5 {
 
@@ -256,9 +259,7 @@ INICIAR SESION
 
 }
 
-#noticias_1 .col-md-4 p {
-    text-align: justify;
-}
+
 
 #noticias_3 {
 
